@@ -255,7 +255,7 @@ Each section below presents the training and validation metrics (Accuracy & Loss
 
 | Source | DF | Sum Sq | Mean Sq | F-value | P-value | Significance |
 |--------|----|--------|---------|----------|----------|---------------|
-| Learning Rate | 5 | 0.004658 | 0.000932 | 5.1989 | 0.000575 | ✅ Significant |
+| Learning Rate | 5 | 0.004658 | 0.000932 | 5.198987 | 0.000575 | ✅ Significant |
 | Residual | 54 | 0.009676 | 0.000179 | — | — | — |
 
 ---
@@ -335,8 +335,9 @@ Each section below presents the training and validation metrics (Accuracy & Loss
 
 ## 📉 Training Curves per Learning Rate
 
-Klik setiap *learning rate* untuk melihat 10 kurva pelatihannya.  
-(Gambar diambil dari folder `/curve/`)
+Click on each *learning rate* to view its 10 training curves.
+(The images are taken from the `/curve/` folder.)
+
 
 ---
 
@@ -446,10 +447,6 @@ Klik setiap *learning rate* untuk melihat 10 kurva pelatihannya.
 
 ## 🔍 Confusion Matrix Results
 
-Klik untuk melihat confusion matrix hasil pengujian model pada data **in-domain** dan **cross-domain**.
-
----
-
 ### 🔹 Confusion Matrix Results (In-Domain)
 
 <table align="center">
@@ -521,4 +518,4 @@ Klik untuk melihat confusion matrix hasil pengujian model pada data **in-domain*
 
 ---
 
-© 2025 Serly Eldina, Tekad Matulatan, Novrizal Fattah Fahmitra 2025 
+© 2025 : Serly Eldina, Tekad Matulatan, Novrizal Fattah Fahmitra 
