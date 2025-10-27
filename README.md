@@ -104,7 +104,7 @@ The following file contains detailed training results for each epoch across all 
 ---
 
 <details>
- 
+ <summary><b>🔹 LR = 0.001</b></summary>
 
   <br>
 
@@ -136,7 +136,7 @@ The following file contains detailed training results for each epoch across all 
 ---
 
 <details>
-  <summary><b>🔹 LR = 0.002 — Stable</b></summary>
+  <summary><b>🔹 LR = 0.002 </b></summary>
 
   <br>
 
@@ -308,16 +308,16 @@ Klik setiap *learning rate* untuk melihat 10 kurva pelatihannya.
 <details>
   <summary>🔹 <b>Learning Rate = 0.0001</b></summary>
 
-  ![LR 0.0001 fold 1](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold1_lr0.0001.png)
-  ![LR 0.0001 fold 2](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold2_lr0.0001.png)
-  ![LR 0.0001 fold 3](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold3_lr0.0001.png)
-  ![LR 0.0001 fold 4](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold4_lr0.0001.png)
-  ![LR 0.0001 fold 5](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold5_lr0.0001.png)
-  ![LR 0.0001 fold 6](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold6_lr0.0001.png)
-  ![LR 0.0001 fold 7](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold7_lr0.0001.png)
-  ![LR 0.0001 fold 8](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold8_lr0.0001.png)
-  ![LR 0.0001 fold 9](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold9_lr0.0001.png)
-  ![LR 0.0001 fold 10](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold10_lr0.0001.png)
+  ![LR 0.0001 fold 1](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold1_lr0.0001.png)
+  ![LR 0.0001 fold 2](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold2_lr0.0001.png)
+  ![LR 0.0001 fold 3](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold3_lr0.0001.png)
+  ![LR 0.0001 fold 4](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold4_lr0.0001.png)
+  ![LR 0.0001 fold 5](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold5_lr0.0001.png)
+  ![LR 0.0001 fold 6](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold6_lr0.0001.png)
+  ![LR 0.0001 fold 7](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold7_lr0.0001.png)
+  ![LR 0.0001 fold 8](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold8_lr0.0001.png)
+  ![LR 0.0001 fold 9](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold9_lr0.0001.png)
+  ![LR 0.0001 fold 10](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold10_lr0.0001.png)
 </details>
 
 ---
@@ -325,16 +325,16 @@ Klik setiap *learning rate* untuk melihat 10 kurva pelatihannya.
 <details>
   <summary>🔹 <b>Learning Rate = 0.001</b></summary>
 
-  ![LR 0.001 fold 1](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold1_lr0.001.png)
-  ![LR 0.001 fold 2](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold2_lr0.001.png)
-  ![LR 0.001 fold 3](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold3_lr0.001.png)
-  ![LR 0.001 fold 4](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold4_lr0.001.png)
-  ![LR 0.001 fold 5](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold5_lr0.001.png)
-  ![LR 0.001 fold 6](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold6_lr0.001.png)
-  ![LR 0.001 fold 7](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold7_lr0.001.png)
-  ![LR 0.001 fold 8](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold8_lr0.001.png)
-  ![LR 0.001 fold 9](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold9_lr0.001.png)
-  ![LR 0.001 fold 10](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold10_lr0.001.png)
+  ![LR 0.001 fold 1](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold1_lr0.001.png)
+  ![LR 0.001 fold 2](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold2_lr0.001.png)
+  ![LR 0.001 fold 3](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold3_lr0.001.png)
+  ![LR 0.001 fold 4](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold4_lr0.001.png)
+  ![LR 0.001 fold 5](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold5_lr0.001.png)
+  ![LR 0.001 fold 6](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold6_lr0.001.png)
+  ![LR 0.001 fold 7](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold7_lr0.001.png)
+  ![LR 0.001 fold 8](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold8_lr0.001.png)
+  ![LR 0.001 fold 9](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold9_lr0.001.png)
+  ![LR 0.001 fold 10](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold10_lr0.001.png)
 </details>
 
 ---
@@ -342,16 +342,16 @@ Klik setiap *learning rate* untuk melihat 10 kurva pelatihannya.
 <details>
   <summary>🔹 <b>Learning Rate = 0.002</b></summary>
 
- ![LR 0.002 fold 1](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold1_lr0.002.png)
-  ![LR 0.002 fold 2](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold2_lr0.002.png)
-  ![LR 0.002 fold 3](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold3_lr0.002.png)
-  ![LR 0.002 fold 4](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold4_lr0.002.png)
-  ![LR 0.002 fold 5](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold5_lr0.002.png)
-  ![LR 0.002 fold 6](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold6_lr0.002.png)
-  ![LR 0.002 fold 7](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold7_lr0.002.png)
-  ![LR 0.002 fold 8](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold8_lr0.002.png)
-  ![LR 0.002 fold 9](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold9_lr0.002.png)
-  ![LR 0.002 fold 10](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold10_lr0.002.png)
+  ![LR 0.002 fold 1](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold1_lr0.002.png)
+  ![LR 0.002 fold 2](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold2_lr0.002.png)
+  ![LR 0.002 fold 3](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold3_lr0.002.png)
+  ![LR 0.002 fold 4](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold4_lr0.002.png)
+  ![LR 0.002 fold 5](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold5_lr0.002.png)
+  ![LR 0.002 fold 6](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold6_lr0.002.png)
+  ![LR 0.002 fold 7](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold7_lr0.002.png)
+  ![LR 0.002 fold 8](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold8_lr0.002.png)
+  ![LR 0.002 fold 9](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold9_lr0.002.png)
+  ![LR 0.002 fold 10](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold10_lr0.002.png)
 </details>
 
 ---
@@ -359,16 +359,16 @@ Klik setiap *learning rate* untuk melihat 10 kurva pelatihannya.
 <details>
   <summary>🔹 <b>Learning Rate = 0.005</b></summary>
 
-  ![LR 0.005 fold 1](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold1_lr0.005.png)
-  ![LR 0.005 fold 2](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold2_lr0.005.png)
-  ![LR 0.005 fold 3](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold3_lr0.005.png)
-  ![LR 0.005 fold 4](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold4_lr0.005.png)
-  ![LR 0.005 fold 5](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold5_lr0.005.png)
-  ![LR 0.005 fold 6](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold6_lr0.005.png)
-  ![LR 0.005 fold 7](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold7_lr0.005.png)
-  ![LR 0.005 fold 8](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold8_lr0.005.png)
-  ![LR 0.005 fold 9](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold9_lr0.005.png)
-  ![LR 0.005 fold 10](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold10_lr0.005.png)
+  ![LR 0.005 fold 1](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold1_lr0.005.png)
+  ![LR 0.005 fold 2](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold2_lr0.005.png)
+  ![LR 0.005 fold 3](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold3_lr0.005.png)
+  ![LR 0.005 fold 4](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold4_lr0.005.png)
+  ![LR 0.005 fold 5](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold5_lr0.005.png)
+  ![LR 0.005 fold 6](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold6_lr0.005.png)
+  ![LR 0.005 fold 7](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold7_lr0.005.png)
+  ![LR 0.005 fold 8](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold8_lr0.005.png)
+  ![LR 0.005 fold 9](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold9_lr0.005.png)
+  ![LR 0.005 fold 10](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold10_lr0.005.png)
 </details>
 
 ---
@@ -376,16 +376,16 @@ Klik setiap *learning rate* untuk melihat 10 kurva pelatihannya.
 <details>
   <summary>🔹 <b>Learning Rate = 0.01</b></summary>
 
-  ![LR 0.01 fold 1](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold1_lr0.01.png)
-  ![LR 0.01 fold 2](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold2_lr0.01.png)
-  ![LR 0.01 fold 3](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold3_lr0.01.png)
-  ![LR 0.01 fold 4](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold4_lr0.01.png)
-  ![LR 0.01 fold 5](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold5_lr0.01.png)
-  ![LR 0.01 fold 6](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold6_lr0.01.png)
-  ![LR 0.01 fold 7](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold7_lr0.01.png)
-  ![LR 0.01 fold 8](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold8_lr0.01.png)
-  ![LR 0.01 fold 9](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold9_lr0.01.png)
-  ![LR 0.01 fold 10](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/Salinan%20training_curves_fold10_lr0.01.png)
+  ![LR 0.01 fold 1](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold1_lr0.01.png)
+  ![LR 0.01 fold 2](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold2_lr0.01.png)
+  ![LR 0.01 fold 3](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold3_lr0.01.png)
+  ![LR 0.01 fold 4](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold4_lr0.01.png)
+  ![LR 0.01 fold 5](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold5_lr0.01.png)
+  ![LR 0.01 fold 6](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold6_lr0.01.png)
+  ![LR 0.01 fold 7](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold7_lr0.01.png)
+  ![LR 0.01 fold 8](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold8_lr0.01.png)
+  ![LR 0.01 fold 9](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold9_lr0.01.png)
+  ![LR 0.01 fold 10](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Salinan%20training_curves_fold10_lr0.01.png)
 </details>
 
 ---
@@ -415,17 +415,17 @@ Klik untuk melihat confusion matrix hasil pengujian model pada data **in-domain*
 
 ---
 
-### 🔹 Confusion Matrix Results (Cross-Domain)
+### 🔹 Confusion Matrix Results (In-Domain)
 
 <table align="center">
   <tr>
     <td align="center">
       <h4>LR = 0.0001</h4>
-      <img src="https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/confusion_matrix0.0001.png?raw=true" width="95%">
+      <img src="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Confusionmatrixfold1LR0.0001indomain.png?raw=true" width="95%">
     </td>
     <td align="center">
       <h4>LR = 0.001</h4>
-      <img src="https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/confusion_matrix0.0001.png?raw=true" width="95%">
+      <img src="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Confusionmatrixfold1LR0.001crossdomain.png?raw=true" width="95%">
     </td>
     <td align="center">
       <h4>LR = 0.002</h4>
