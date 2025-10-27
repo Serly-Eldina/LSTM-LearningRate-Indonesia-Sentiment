@@ -421,29 +421,29 @@ Klik untuk melihat confusion matrix hasil pengujian model pada data **in-domain*
   <tr>
     <td align="center">
       <h4>LR = 0.0001</h4>
-      <img src="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Confusionmatrixfold1LR0.0001indomain.png?raw=true" width="95%">
+      <img src="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Confusionmatrixfold4LR0.0001indomain.png?raw=true" width="95%">
     </td>
     <td align="center">
       <h4>LR = 0.001</h4>
-      <img src="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Confusionmatrixfold1LR0.001crossdomain.png?raw=true" width="95%">
+      <img src="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Confusionmatrixfold2LR0.001indomain.png?raw=true" width="95%">
     </td>
     <td align="center">
       <h4>LR = 0.002</h4>
-      <img src="https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/confusion_matrix0.0001.png?raw=true" width="95%">
+      <img src="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Confusionmatrixfold2LR0.002indomain.png?raw=true" width="95%">
     </td>
   </tr>
   <tr>
     <td align="center">
       <h4>LR = 0.005</h4>
-      <img src="https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/confusion_matrix0.0001.png?raw=true" width="95%">
+      <img src="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Confusionmatrixfold1LR0.005indomain.png?raw=true" width="95%">
     </td>
     <td align="center">
       <h4>LR = 0.01</h4>
-      <img src="https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/confusion_matrix0.0001.png?raw=true" width="95%">
+      <img src="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Confusionmatrixfold5LR0.01indomain.png?raw=true" width="95%">
     </td>
     <td align="center">
       <h4>LR = 0.02</h4>
-      <img src="https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/confusion_matrix0.0001.png?raw=true" width="95%">
+      <img src="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Confusionmatrixfold2LR0.02indomain.png?raw=true" width="95%">
     </td>
   </tr>
 </table>
@@ -454,29 +454,29 @@ Klik untuk melihat confusion matrix hasil pengujian model pada data **in-domain*
   <tr>
     <td align="center">
       <h4>LR = 0.0001</h4>
-      <img src="https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/confusion_matrix0.0001.png?raw=true" width="95%">
+      <img src="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Confusionmatrixfold4LR0.0001crossdomain.png?raw=true" width="95%">
     </td>
     <td align="center">
       <h4>LR = 0.001</h4>
-      <img src="https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/confusion_matrix0.0001.png?raw=true" width="95%">
+      <img src="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Confusionmatrixfold2LR0.001crossdomain.png?raw=true" width="95%">
     </td>
     <td align="center">
       <h4>LR = 0.002</h4>
-      <img src="https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/confusion_matrix0.0001.png?raw=true" width="95%">
+      <img src="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Confusionmatrixfold2LR0.002crossdomain.png?raw=true" width="95%">
     </td>
   </tr>
   <tr>
     <td align="center">
       <h4>LR = 0.005</h4>
-      <img src="https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/confusion_matrix0.0001.png?raw=true" width="95%">
+      <img src="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Confusionmatrixfold1LR0.005crossdomain.png?raw=true" width="95%">
     </td>
     <td align="center">
       <h4>LR = 0.01</h4>
-      <img src="https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/confusion_matrix0.0001.png?raw=true" width="95%">
+      <img src="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Confusionmatrixfold5LR0.01crossdomain.png?raw=true" width="95%">
     </td>
     <td align="center">
       <h4>LR = 0.02</h4>
-      <img src="https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/blob/main/build/confusion_matrix0.0001.png?raw=true" width="95%">
+      <img src="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/Confusionmatrixfold2LR0.02crossdomain.png?raw=true" width="95%">
     </td>
   </tr>
 </table>
