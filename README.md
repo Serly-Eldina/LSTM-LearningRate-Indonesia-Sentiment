@@ -70,9 +70,17 @@ Universitas Maritim Raja Ali Haji, Indonesia
 <img src="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Images/10-Fold%20Cross%20Validation%20Learning%20Rate%20Comparison.png" width="90%">
 
 ---
+# 🔬 LSTM Learning Rate Experiment (10-Fold Cross Validation)
+
+This experiment evaluates the performance of an **LSTM model** on Indonesian sentiment classification with various **learning rates** using **10-Fold Cross Validation**.  
+Each section below presents the training and validation metrics (Accuracy & Loss) for each fold.
+
+---
+
+## 📊 Summary of Learning Rate Experiments
 
 <details>
-  <summary><b>🔹 LR = 0.0001</b></summary>
+  <summary><b>🔹 LR = 0.0001 </b></summary>
 
   <br>
 
@@ -89,12 +97,8 @@ Universitas Maritim Raja Ali Haji, Indonesia
   | 9 | 0.0001 | 0.8818 | 0.3826 | 0.7895 | 0.5749 |
   | 10 | 0.0001 | 0.8819 | 0.3814 | 0.7883 | 0.5670 |
 
-### 📈 Training Results per Epoch (Each Fold)
-
-The following file contains detailed training results for each epoch across all 10 folds at a learning rate of **0.0001**. You can view the accuracy and loss progression for every fold in the Excel sheet below:
-
   <div align="left">
-    <a href="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/experiment-results/trainingLR0.0001_10FOLD.xlsx">
+    <a href="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/experiment-results/trainingLR0.0001_10FOLD.xlsx" target="_blank">
       <img src="https://img.shields.io/badge/View%20Excel%20(0.0001)-blue?style=for-the-badge&logo=microsoft-excel&logoColor=white">
     </a>
   </div>
@@ -104,7 +108,7 @@ The following file contains detailed training results for each epoch across all 
 ---
 
 <details>
- <summary><b>🔹 LR = 0.001</b></summary>
+  <summary><b>🔹 LR = 0.001 </b></summary>
 
   <br>
 
@@ -121,10 +125,6 @@ The following file contains detailed training results for each epoch across all 
   | 9 | 0.001 | 0.8463 | 0.4407 | 0.7907 | 0.5185 |
   | 10 | 0.001 | 0.8342 | 0.4569 | 0.7919 | 0.5037 |
 
-### 📈 Training Results per Epoch (Each Fold)
-
-The following file contains detailed training results for each epoch across all 10 folds at a learning rate of **0.001**. You can view the accuracy and loss progression for every fold in the Excel sheet below:
-
   <div align="left">
     <a href="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/experiment-results/trainingLR0.001_10FOLD.xlsx" target="_blank">
       <img src="https://img.shields.io/badge/View%20Excel%20(0.001)-success?style=for-the-badge&logo=microsoft-excel&logoColor=white">
@@ -140,11 +140,18 @@ The following file contains detailed training results for each epoch across all 
 
   <br>
 
-  (tabel 10 fold 0.002 di sini...)
-  
-### 📈 Training Results per Epoch (Each Fold)
-
-The following file contains detailed training results for each epoch across all 10 folds at a learning rate of **0.002**. You can view the accuracy and loss progression for every fold in the Excel sheet below:
+  | Fold | Learning Rate | Train Accuracy | Train Loss | Validation Accuracy | Validation Loss |
+  |:----:|:--------------:|:---------------:|:------------:|:-------------------:|:----------------:|
+  | 1 | 0.002 | 0.7260 | 0.6697 | 0.7814 | 0.5847 |
+  | 2 | 0.002 | 0.7034 | 0.6943 | 0.8268 | 0.4896 |
+  | 3 | 0.002 | 0.6877 | 0.6993 | 0.7967 | 0.5324 |
+  | 4 | 0.002 | 0.8551 | 0.4042 | 0.7933 | 0.5530 |
+  | 5 | 0.002 | 0.8531 | 0.3983 | 0.8160 | 0.4947 |
+  | 6 | 0.002 | 0.8524 | 0.4027 | 0.7978 | 0.5290 |
+  | 7 | 0.002 | 0.8571 | 0.4044 | 0.7978 | 0.5084 |
+  | 8 | 0.002 | 0.8500 | 0.4038 | 0.8026 | 0.5188 |
+  | 9 | 0.002 | 0.8572 | 0.4032 | 0.7811 | 0.5382 |
+  | 10 | 0.002 | 0.7041 | 0.6920 | 0.7859 | 0.5332 |
 
   <div align="left">
     <a href="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/experiment-results/trainingLR0.002_10FOLD.xlsx" target="_blank">
@@ -157,15 +164,22 @@ The following file contains detailed training results for each epoch across all 
 ---
 
 <details>
-  <summary><b>🔹 LR = 0.005 — Moderate</b></summary>
+  <summary><b>🔹 LR = 0.005 </b></summary>
 
   <br>
 
-  (tabel 10 fold 0.005 di sini...)
-
-### 📈 Training Results per Epoch (Each Fold)
-
-The following file contains detailed training results for each epoch across all 10 folds at a learning rate of **0.005**. You can view the accuracy and loss progression for every fold in the Excel sheet below:
+  | Fold | Learning Rate | Train Accuracy | Train Loss | Validation Accuracy | Validation Loss |
+  |:----:|:--------------:|:---------------:|:------------:|:-------------------:|:----------------:|
+  | 1 | 0.005 | 0.7176 | 0.6660 | 0.8076 | 0.5302 |
+  | 2 | 0.005 | 0.7266 | 0.6563 | 0.8065 | 0.4971 |
+  | 3 | 0.005 | 0.8587 | 0.3843 | 0.8005 | 0.5117 |
+  | 4 | 0.005 | 0.8569 | 0.3830 | 0.7921 | 0.5174 |
+  | 5 | 0.005 | 0.8588 | 0.3784 | 0.8029 | 0.5193 |
+  | 6 | 0.005 | 0.7293 | 0.6511 | 0.7895 | 0.5239 |
+  | 7 | 0.005 | 0.8587 | 0.3795 | 0.7811 | 0.5351 |
+  | 8 | 0.005 | 0.7235 | 0.6626 | 0.8062 | 0.5249 |
+  | 9 | 0.005 | 0.9025 | 0.2744 | 0.7787 | 0.5579 |
+  | 10 | 0.005 | 0.8991 | 0.2725 | 0.7967 | 0.5487 |
 
   <div align="left">
     <a href="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/experiment-results/trainingLR0.005_10FOLD.xlsx" target="_blank">
@@ -178,11 +192,22 @@ The following file contains detailed training results for each epoch across all 
 ---
 
 <details>
-  <summary><b>🔹 LR = 0.01 — Slightly Unstable</b></summary>
+  <summary><b>🔹 LR = 0.01 </b></summary>
 
   <br>
 
-  (tabel 10 fold 0.01 di sini...)
+  | Fold | Learning Rate | Train Accuracy | Train Loss | Validation Accuracy | Validation Loss |
+  |:----:|:--------------:|:---------------:|:------------:|:-------------------:|:----------------:|
+  | 1 | 0.01 | 0.8605 | 0.3616 | 0.7682 | 0.5798 |
+  | 2 | 0.01 | 0.7176 | 0.6733 | 0.8136 | 0.5133 |
+  | 3 | 0.01 | 0.7279 | 0.6559 | 0.7861 | 0.5332 |
+  | 4 | 0.01 | 0.8615 | 0.3757 | 0.8112 | 0.4862 |
+  | 5 | 0.01 | 0.9085 | 0.2464 | 0.8232 | 0.5240 |
+  | 6 | 0.01 | 0.7362 | 0.6499 | 0.7811 | 0.5628 |
+  | 7 | 0.01 | 0.8599 | 0.3817 | 0.7656 | 0.5442 |
+  | 8 | 0.01 | 0.7201 | 0.6669 | 0.7775 | 0.5546 |
+  | 9 | 0.01 | 0.8617 | 0.3730 | 0.7751 | 0.5997 |
+  | 10 | 0.01 | 0.8538 | 0.3839 | 0.7727 | 0.5636 |
 
   <div align="left">
     <a href="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/experiment-results/trainingLR0.01_10FOLD.xlsx" target="_blank">
@@ -195,20 +220,30 @@ The following file contains detailed training results for each epoch across all 
 ---
 
 <details>
-  <summary><b>🔹 LR = 0.02 — Lowest</b></summary>
+  <summary><b>🔹 LR = 0.02 </b></summary>
 
   <br>
 
-  (tabel 10 fold 0.02 di sini...)
+  | Fold | Learning Rate | Train Accuracy | Train Loss | Validation Accuracy | Validation Loss |
+  |:----:|:--------------:|:---------------:|:------------:|:-------------------:|:----------------:|
+  | 1 | 0.02 | 0.7260 | 0.6697 | 0.7814 | 0.5847 |
+  | 2 | 0.02 | 0.7141 | 0.6865 | 0.7921 | 0.5481 |
+  | 3 | 0.02 | 0.7210 | 0.6773 | 0.7742 | 0.5486 |
+  | 4 | 0.02 | 0.8472 | 0.4041 | 0.7802 | 0.5708 |
+  | 5 | 0.02 | 0.8429 | 0.4168 | 0.7873 | 0.5405 |
+  | 6 | 0.02 | 0.8421 | 0.4172 | 0.7847 | 0.5973 |
+  | 7 | 0.02 | 0.8317 | 0.4526 | 0.7739 | 0.5904 |
+  | 8 | 0.02 | 0.7248 | 0.6718 | 0.7715 | 0.5574 |
+  | 9 | 0.02 | 0.7276 | 0.6639 | 0.7703 | 0.5656 |
+  | 10 | 0.02 | 0.7221 | 0.6666 | 0.7811 | 0.5641 |
 
   <div align="left">
     <a href="https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/experiment-results/trainingLR0.02_10FOLD.xlsx" target="_blank">
-      <img src="https://img.shields.io/badge/View%20Excel%20(0.02)-gray?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+      <img src="https://img.shields.io/badge/View%20Excel%20(0.02)-grey?style=for-the-badge&logo=microsoft-excel&logoColor=white">
     </a>
   </div>
 
 </details>
-
 
 ---
 <details>
