@@ -29,18 +29,37 @@ Universitas Maritim Raja Ali Haji, Indonesia
 
 ---
 
-### 📦 Available Datasets  
+## 📂 Dataset Access
 
-| Dataset Type | Description | Download Link |
-|---------------|-------------|----------------|
-| **Full Dataset (In-domain)** | Complete dataset of *App Reviews Sirekap* before train/test splitting. | [⬇️ Download Full In-domain Dataset (Excel)](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Dataset/datalabel.csv) |
-|**Full Dataset (In-domain)** | Complete dataset of *App Reviews Sirekap* before train/test splitting. data undersampling | [⬇️ Download Full In-domain Dataset Undersampling (Excel)](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Dataset/data_undersampling.csv) |
-| **Test Dataset (In-domain)** | Test set obtained from splitting the *App Reviews Sirekap* dataset. | [⬇️ Download In-domain Test Dataset (Excel)](https://github.com/Serly-Eldina/LSTM-learning-rate-research-data-/raw/main/Dataset/Dataset_Test_InDomain.xlsx) |
-| **Test Dataset (Cross-domain)** | Test set from the *News Headlines* domain with the topic *Makanan Bergizi Gratis (MBG)*. | [⬇️ Download Cross-domain Test Dataset (Excel)](https://github.com/Serly-Eldina/LSTM-LearningRate-Indonesia-Sentiment/blob/main/Dataset/test_set_in_domain_sirekap.csv) |
+To protect data integrity and prevent unauthorized redistribution or commercial use, the datasets used in this study are **not publicly available**.  
+Access is granted **only to researchers** for non-commercial academic or research purposes that are relevant to this study.
+
+Researchers who wish to request access may contact the author via email:  
+📧 **serlyeldina03@gmail.com**
+
+Please include the following information in your access request:
+1. Full name and institutional affiliation (e.g., university or research organization).  
+2. Purpose of dataset use (e.g., thesis, dissertation, or NLP research).  
+3. A statement confirming that the dataset will **not be redistributed** or **used for commercial purposes**.
+
+| Dataset Type | Description | Access |
+|---------------|-------------|---------|
+| **Full Dataset (In-domain)** | Complete dataset of *App Reviews Sirekap* before train/test splitting. | 🔒 Available upon request |
+| **Full Dataset (In-domain, Undersampling)** | *App Reviews Sirekap* dataset after undersampling process. | 🔒 Available upon request |
+| **Test Dataset (In-domain)** | Test set obtained from the *App Reviews Sirekap* dataset split. | 🔒 Available upon request |
+| **Test Dataset (Cross-domain)** | Test set from *News Headlines* domain on the topic *Makanan Bergizi Gratis (MBG)*. | 🔒 Available upon request |
+
+> ⚠️ **Note:**  
+> This dataset is protected under the author's copyright.  
+
+### 📜 Reason for Restricted Access
+The dataset is not publicly released to:
+- Protect the originality and authorship of the data collection and labeling process.  
+- Prevent misuse or unauthorized resale of the dataset.  
+- Ensure ethical handling of data originating from user-generated or sensitive sources.
 
 ---
 
-> 💡 *Click the links above to directly download the Excel dataset. If it does not download automatically, right-click → “Save link as…” to save the file.*
 
 ## ⚙️ Experimental Settings
 
