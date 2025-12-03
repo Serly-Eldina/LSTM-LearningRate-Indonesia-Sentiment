@@ -6,7 +6,7 @@
 Serly Eldina, Tekad Matulatan, Novrizal Fattah Fahmitra  
 
 **Affiliation:**  
-Universitas Maritim Raja Ali Haji, Indonesia  
+Raja Ali Haji Maritim University, Indonesia  
 
 **Year:**  
 2025  
@@ -23,8 +23,8 @@ Universitas Maritim Raja Ali Haji, Indonesia
 
 - **Type:** Indonesian Sentiment Text Data  
 - **Domains:**  
-  - **In-domain:** App Reviews (*Sirekap* – Google Play Store)  
-  - **Cross-domain:** News Headlines (*Topic: Makanan Bergizi Gratis / MBG*)  
+  - **In-domain:** App Reviews 
+  - **Cross-domain:** News Headlines  
 - **Format:** `.xlsx` (Microsoft Excel)
 
 ---
@@ -47,7 +47,7 @@ Please include the following information in your access request:
 | **Full Dataset (In-domain)** | Complete dataset of *App Reviews Sirekap* before train/test splitting. | 🔒 Available upon request |
 | **Full Dataset (In-domain, Undersampling)** | *App Reviews Sirekap* dataset after undersampling process. | 🔒 Available upon request |
 | **Test Dataset (In-domain)** | Test set obtained from the *App Reviews Sirekap* dataset split. | 🔒 Available upon request |
-| **Test Dataset (Cross-domain)** | Test set from *News Headlines* domain on the topic *Makanan Bergizi Gratis (MBG)*. | 🔒 Available upon request |
+| **Test Dataset (Cross-domain)** | Test set from *News Headlines* domain on the topic *(MBG)*. | 🔒 Available upon request |
 
 > ⚠️ **Note:**  
 > This dataset is protected under the author's copyright.  
