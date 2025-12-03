@@ -1,4 +1,4 @@
-# 📊 Evaluating Learning Rate Effects on Long Short-Term Memory for Indonesian Sentiment Classification
+# 📊 Evaluating Learning Rate LSTM
 
 ## 📄 Research Paper
 
